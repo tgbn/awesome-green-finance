@@ -8,7 +8,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Accelerators](#accelerators)
     - [Active Organizations](#active-organizations)
     - [Articles](#articles)
-    - [Blockchain](#blockchain)
+    - [Blockchain Projects](#blockchain)
     - [Data Sources](#data-sources)
     - [Grants](#grants)
     - [Labs](#labs)
@@ -40,7 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Articles with important information on green finance.*
 
-* [Blochain as Renewable Energy](https://www.forbes.com/sites/jamesellsmoor/2019/04/27/blockchain-is-the-next-big-thing-for-renewable-energy/#5cc7d9948c1b)
+* [Blockchain as Renewable Energy](https://www.forbes.com/sites/jamesellsmoor/2019/04/27/blockchain-is-the-next-big-thing-for-renewable-energy/#5cc7d9948c1b)
 
 ## Blockchain
 
@@ -52,7 +52,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Databases
 
-*Data sources on green projects and climate impact.
+*Data sources on green projects and climate impact.*
 
 
 ## Grants
@@ -76,21 +76,21 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Reports
 
-*Data sources on green projects and climate impact.
+*Data sources on green projects and climate impact.*
 
 * [Recommendations of the Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFD-Annex-062817.pdf)
 
 
 ## Data Tools
 
-*Tools for exploring green projects and climate impact data.
+*Tools for exploring green projects and climate impact data.*
 
 * [worldbank maps](https://maps.worldbank.org/) - You use GreenCoin - We finance Green Technologies.
 
 
 # Other Resources
 
-Where to discover new green projects.
+*Where to discover new green projects.*
 
 ## Podcasts
 
