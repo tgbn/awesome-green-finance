@@ -11,6 +11,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Blockchain Projects](#blockchain)
     - [Data Sources](#data-sources)
     - [Grants](#grants)
+    - [Knowledge Economy](#knowledge-economy)
     - [Labs](#labs)
     - [Projects](#projects)
 - [Contributing](#awesome-green-finance)
@@ -61,6 +62,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Grants available for financing green projects.*
 
+## Knowledge Economy
+
+* [Drangonchain tokenized knowledge economy](https://dragonchain.com/blog/new-tokenized-knowledge-economy)
+* [World’s first educational blockchain project, which tokenizes the knowledge of students and graduates of all universities around the world](https://studup.io/en/)
 
 ## Labs
 
