@@ -47,6 +47,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Blockchain projects aimed at green financing.*
 
 * [greencoin.life](https://greencoin.life/) - You use GreenCoin - We finance Green Technologies.
+* [earthledger](https://earthledger.one/) - The Environmental Evolution Resolving Climate Change Using Blockchain Technology
+
 
 
 
