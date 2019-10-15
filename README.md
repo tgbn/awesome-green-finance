@@ -14,6 +14,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Knowledge Economy](#knowledge-economy)
     - [Labs](#labs)
     - [Projects](#projects)
+    - [Reports](#reports)
 - [Contributing](#awesome-green-finance)
     
 ---
@@ -85,7 +86,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Data sources on green projects and climate impact.*
 
-* [Recommendations of the Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFD-Annex-062817.pdf)
+* [Recommendations of the Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFD-Annex-062817.pdf)  
+* [Final report of the High-Level Expert Group on Sustainable Finance](https://ec.europa.eu/info/publications/180131-sustainable-finance-report_en)
 
 
 ## Data Tools
